@@ -133,7 +133,7 @@ excerpt_length: 75
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "_"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
