@@ -100,7 +100,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
- google_analytics: "UA-121406804-1"
+google_analytics: "UA-121406804-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -117,7 +117,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "richard-judge"
+disqus: "richard-judge"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
@@ -133,7 +133,7 @@ excerpt_length: 75
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "_"
+title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
