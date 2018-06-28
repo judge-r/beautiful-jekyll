@@ -23,7 +23,7 @@ description: My personal website which showcases my work, career interests, hobb
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme.md"
   Blog: ""
   Contact: "Contact"
 
