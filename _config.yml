@@ -24,7 +24,7 @@ description: My personal website which showcases my work, career interests, hobb
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "_posts/"
+  Blog: ""
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
