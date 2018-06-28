@@ -31,4 +31,6 @@ TOTAL COST = $121.30 (note: this does not include the cost of any soldering mate
 
 The next step of my project is to assemble the biomimetic mussel bed atop a Type S mortar pad and do waterproof testing for my waterproof electronics box. I will post more updates in the coming weeks! If you have questions about the hardware or software for this project, feel free to reach out to me.
 
+[![Arduino Temperature Logger]({{ site.url }}/img/TempLogger.png)]({{ sit.url }}/img/TempLogger.png)
+   
 -Richard
