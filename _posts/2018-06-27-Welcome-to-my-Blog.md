@@ -1,6 +1,6 @@
 ---
 type: posts
-layout: base
+layout: post
 title: Welcome to My Blog!
 ---
 Hi all,
