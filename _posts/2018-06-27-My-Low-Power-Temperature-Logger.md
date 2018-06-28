@@ -2,7 +2,7 @@
 type: posts
 layout: post
 title: My Arduino Low Power Temperature Logger
-image: "TempLogger.png"
+image: http://judge-r.github.io/img/TempLogger.png
 ---
 
 Hi everyone,
