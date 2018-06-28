@@ -24,7 +24,7 @@ description: My personal website which showcases my work, career interests, hobb
 # List of links in the navigation bar
 navbar-links:
   About Me: "About Me"
-  Blog: "Blog"
+  Blog: ""
   Contact: "Contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -42,7 +42,7 @@ avatar: "/img/Headshot.png"
 navbar-col: "#95212c"
 navbar-text-col: "#e0e0e0"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#CCFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -129,7 +129,7 @@ disqus: "richard-judge"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 75
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
