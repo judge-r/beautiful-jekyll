@@ -2,7 +2,6 @@
 type: posts
 layout: post
 title: My Arduino Low Power Temperature Logger
-image: [![Arduino Temperature Logger]({{ site.url }}/img/TempLogger.png)]({{ site.url }}/img/TempLogger.png)
 ---
 
 Hi everyone,
