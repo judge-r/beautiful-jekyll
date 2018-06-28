@@ -16,7 +16,7 @@ github:
   baseURL: "https://github.com/judge-r"
   icon: "fa-github"
 
- twitter:
+twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
