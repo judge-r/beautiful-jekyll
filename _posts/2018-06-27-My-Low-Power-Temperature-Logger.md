@@ -1,6 +1,6 @@
 ---
 type: posts
-layout: base
+layout: post
 title: My Arduino Low Power Temperature Logger
 ---
 
