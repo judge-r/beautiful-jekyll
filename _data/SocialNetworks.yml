@@ -8,15 +8,15 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/rjudge2"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/judge-r"
   icon: "fa-github"
 
-twitter:
+ twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
@@ -32,13 +32,13 @@ google-plus:
   icon: "fa-google-plus"
 
 email:
-  name: "Email me"
-  baseURL: "mailto:"
+  name: "Richard Judge"
+  baseURL: "mailto: skirj@icloud.com"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://linkedin.com/in/richard-judge-00935292"
   icon: "fa-linkedin"
 
 xing:
