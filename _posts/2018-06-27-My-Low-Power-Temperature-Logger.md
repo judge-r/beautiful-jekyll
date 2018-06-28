@@ -32,4 +32,4 @@ The next step of my project is to assemble the biomimetic mussel bed atop a Type
 
 -Richard
 
-![Two Type-K thermocouples (blue wires) attached to the DeadBug DLS2.0 datalogging shield and Arduino UNO R3](http://judge-r.github.io/img/TempLogger.png)
+![Type-K Thermocouple Temperature Logger](http://judge-r.github.io/img/TempLogger.png)
