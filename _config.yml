@@ -20,6 +20,7 @@ title: Richard Judge
 description: My personal website which showcases my work, career interests, hobbies, and thoughts on various social and political issues.
 
 # --- Navigation bar options --- #
+paginate_path: "/blog/page:num/"
 
 # List of links in the navigation bar
 navbar-links:
