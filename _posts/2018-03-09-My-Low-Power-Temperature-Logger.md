@@ -4,7 +4,6 @@ layout: post
 title: My Arduino Low Power Temperature Logger
 image: /img/Arduinologo.jpg
 ---
-
 Hi everyone,
 
 I have recently finished writing the code for my Arduino-based temperature datalogger and it is now publicly available on my github page. This was certainly a long and arduous piece of work for me as I am new to computer programming and picked up my coding and electronics skills for this project from scratch. The logger's program uses the C/C++ programming language used in conjunction with the Arduino Integrated Development Environment.
