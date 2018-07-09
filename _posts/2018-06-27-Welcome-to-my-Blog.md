@@ -11,3 +11,4 @@ I have just started my own personal website and I am very excited to share my th
 Thank you for viewing,
 
 Richard
+Image: Stax.org
