@@ -3,6 +3,7 @@ type: posts
 layout: post
 title: My Arduino Low Power Temperature Logger
 image: /img/Arduinologo.jpg
+show-avatar: false
 ---
 Hi everyone,
 
