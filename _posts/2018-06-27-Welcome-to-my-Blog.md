@@ -1,6 +1,7 @@
 ---
 type: posts
 layout: post
+share-img: http://statx.org/wp-content/uploads/2012/12/welcome.jpg
 title: Welcome to My Blog!
 ---
 Hi all,
