@@ -3,7 +3,6 @@ layout: page
 title: About Me
 ---
 # What I have been up to lately: #
-_________________________________________________________________________________________________________________________________________
 ## Mussel Research ##
 
 [![Blue Mussels in Nahant, MA]({{ site.url }}/img/Mussels.jpg)]({{ site.url }}/img/Mussels.jpg)
@@ -12,7 +11,7 @@ Currently, I am finishing up a research project in [Dr. Brian Helmuth’s lab](h
 
 ## This Website & Learning how to Code ##
 
-Over the past year or so, I have been teaching myself how to code in several different languages including: C/C++, R, Markdown, HTML, CSS, and JavaScript. I wish I had taken a computer science class or two while in school because I still do not know how I got away with being a science major without having to take a programming class. I knew absolutely no programming at all before I started my research project and realized I wanted to learn after realizing how valuable it is in many fields. In my opinion, basic programming should be a core class requirement for all STEM majors in higher education. I learned enough programming to get this website up and running, and I am excited to continue learning.
+Over the past year or so, I have been teaching myself how to code in several different languages including: C/C++, R, Markdown, HTML, CSS, and JavaScript. I knew absolutely no programming at all before I started my research project and realized I wanted to learn after realizing how valuable it is in many fields. In my opinion, basic programming should be a core class requirement for all STEM majors in higher education. I learned enough programming to get this website up and running, and I am excited to continue learning.
 
 ## Running ##
 
