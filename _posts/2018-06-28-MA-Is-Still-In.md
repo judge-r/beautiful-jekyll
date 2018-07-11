@@ -10,11 +10,11 @@ The relatively new Massachusetts Climate Omnibus Bill ([S. 2545](https://malegis
 
 According to a [review](https://cabaus.org/2018/02/12/senate-clean-energy-omnibus-bill/) by the Climate Action Business Association (CABA) some of the main objectives of the bill are to:
 
-- Require the implementation of a “market-based compliance mechanism” (such as cap and trade or, more preferably, a carbon tax) for the transportation, residential building, and industrial sectors.
-- Ensure that the emission-reduction goals of the Global Warming Solutions Act are in line with the Paris Climate Agreement commitments.
-- Eliminates the cap on net metering which will incentivize the creation of additional public and private solar projects all around the state and make them more attractive to homeowners
-- Initiates a grant program to assist regional agencies in climate adaptation and mitigation strategies. 
-- Provides access to low-cost renewable energy for low-income people.
+- Require the implementation of a “market-based compliance mechanism” (such as cap and trade or, more preferably, a carbon tax) for the transportation, residential building, and industrial sectors
+- Ensure that the emission-reduction goals of the Global Warming Solutions Act are to be met by setting 2030 and 2040 intermediate reduction targets
+- Eliminate the cap on net metering which will incentivize the creation of additional public and private solar projects all around the state and make them more attractive to homeowners
+- Initiate a grant program to assist regional agencies in climate adaptation and mitigation strategies 
+- Provide access to low-cost renewable energy for low-income people
 
 Two goals of the GWSA are to reduce annual emissions to 25% and 80% below statewide annual emissions from 1990 by the years 2020 and 2050, respectively. That 1990 target was updated most recently by the state in a [2015 report](https://www.mass.gov/files/documents/2017/01/uo/cecp-for-2020.pdf) to 94.4 million metric tons of CO2 equivalent emissions. Below I have graphed annual emissions from past data (1990-2014) and used basic linear interpolation to predict what future emissions should be to achieve the 2020 (70.8 million metric tons CO2) and 2050 (18.9 million metric tons CO2) targets:
 
