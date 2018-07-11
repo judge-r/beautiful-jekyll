@@ -2,6 +2,7 @@
 type: posts
 layout: post
 title: MA Is Still In
+subtitle: How Recent Legislation Poises the State to Lead on Climate
 ---
 A number of very important pieces of climate legislation have been introduced in the last year and are making their way through the Massachusetts General Court now. 
 
