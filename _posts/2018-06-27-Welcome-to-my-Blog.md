@@ -1,7 +1,7 @@
 ---
 type: posts
 layout: post
-image: /img/Welcome.png
+image: /img/Welcome.jpg
 title: Welcome to My Blog!
 ---
 Hi all,
@@ -11,5 +11,3 @@ I have just started my own personal website and I am very excited to share my th
 Thank you for viewing,
 
 Richard
-
-Image: Stax.org
