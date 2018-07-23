@@ -1,7 +1,7 @@
 ---
 type: posts
 layout: post
-image: /img/Welcome.jpg
+image: /img/Lighthouse2.jpg
 title: Welcome to My Blog!
 ---
 Hi all,
