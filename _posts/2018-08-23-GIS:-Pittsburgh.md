@@ -32,8 +32,8 @@ All of the data used for this project was acquired from the Pennsylvania Spatial
 
 Data References:
 1.	Pennsylvania Spatial Data Access (PASDA)
-http://www.pasda.psu.edu/uci/SearchPage.aspx
+(http://www.pasda.psu.edu/uci/SearchPage.aspx)
 
 2.	City of Pittsburgh GIS Database:
-http://pittsburghpa.gov/dcp/gis/gis-data
+(http://pittsburghpa.gov/dcp/gis/gis-data)
  
