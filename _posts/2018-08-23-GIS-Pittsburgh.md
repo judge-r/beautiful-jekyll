@@ -14,12 +14,12 @@ All of the layers used in the development of GIS maps for this study utilize the
 
 The first map illustrated in this paper highlights the environmental hazards around the city of Pittsburgh such as flood risk and landslide potential (Fig. 1). The landslide risk varies around the city on a scale of 1-37 as shown by a graduated color map. The Western part of the city to the West of the Allegheny River is very hilly and also has some undermined areas which both contribute to its high landslide potential. 
 
-__Figure 1__ Environmental Hazards
+__Figure 1.__ Environmental Hazards
 [![Figure 1. Environmental Hazards]({{ site.url }}/img/PIT_GIS_Fig_1.png)]({{ site.url }}/img/PIT_GIS_Fig_1.png)
 
 The man-made hazards within Pittsburgh city limits include: captive hazardous waste, commercial hazardous waste facilities, air emission plants, and municipal waste facilities comprised mainly of landfills and dump sites (Fig. 2). This visual better illustrates the most hazardous areas of the city in terms of direct public health threats from air pollution and groundwater contamination.
 
-__Figure2__ Man-made Hazards
+__Figure 2.__ Man-made Hazards
 [![Figure 2. Man-made Hazards]({{ site.url }}/img/PIT_GIS_Fig_2.png)]({{ site.url }}/img/PIT_GIS_Fig_2.png)
 
 Figure 3 provides a more complete visual that shows all of the neighborhood boundaries with all the natural and man-made hazards explored in this study. To measure the extent of risk for man-made hazards for each neighborhood, several spatial joins were conducted to join the attribute tables of the man-made hazard features to uncover which neighborhoods contained the greatest number of hazards. The results showed that the 3 "high risk neighborhoods" were: Central Business District with 30 hazardous features, and the Bloomfield and South Side Flats neighborhoods each with 27 hazardous features. The South Side Flats neighborhood is at particular risk because it is completely within the 100-year flood zone, which is also mapped. The symbology of these neighborhoods was changed first by selecting them and then creating a new, separate layer. The other neighborhood highlighted in this map is the Fineview neighborhood in the Northwest part of the city. Although it is at low risk of man-made environmental hazards, nearly the entire land area of Fineview is at substantial risk for landslides (Fig. 3).
