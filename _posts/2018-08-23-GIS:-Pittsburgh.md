@@ -1,7 +1,7 @@
 ---
 type: posts
 layout: post
-title: GIS: Public Health Hazards in Pittsburgh
+title: GIS: Pittsburgh
 subtitle: My first independent GIS project (2014)
 ---
 This is a project I completed in 2014 for my Geographic Information Systems (GIS) class at Northeastern using the ArcGIS 10.2 program. I apologize for the low quality graphics- some things may be difficult to read without zooming in. I am working on learning how to create better quality images. Enjoy!
