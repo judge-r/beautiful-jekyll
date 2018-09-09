@@ -7,5 +7,5 @@ title: SF Invasive Species Guide
   
 [![SF Invasive Species Guide]({{ site.url }}/img/SFInvasiveSpecies1.png)]({{ site.url }}/img/SFInvasiveSpecies1.png)
 
-[![SF Invasive Species Guide]({{ site.url }}/img/SFInvasiveSpecies2.png)]({{ site.url }}/img/SFInvasiveSpecies2.png)
+[![SF Invasive Species Guide2]({{ site.url }}/img/SFInvasiveSpecies2.png)]({{ site.url }}/img/SFInvasiveSpecies2.png)
 
