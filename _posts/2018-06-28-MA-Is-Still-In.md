@@ -4,7 +4,7 @@ layout: post
 title: MA Is Still In
 subtitle: How Recent Legislation Poises the State to Lead on Climate
 ---
-A number of very important pieces of climate legislation have been introduced in the last year and are making their way through the Massachusetts General Court now. 
+A very important piece of climate legislation has been introduced in the last year and is making its way through the Massachusetts General Court now.
 
 The relatively new Massachusetts Climate Omnibus Bill ([S. 2545](https://malegislature.gov/Bills/190/S2545)), called "An Act to promote a clean energy future: *To protect our public health, create jobs and reduce greenhouse gas emissions*" is now one of the most comprehensive legislative efforts to fight climate change in Massachusetts history. The Senate version of the bill passed on June 14 and is now in the House where it will face tougher scrutiny. The bill is an ambitious and much needed attempt to address climate change which is becoming costlier to society by the day. It will help to enforce the state’s [2008 Global Warming Solutions Act](https://www.mass.gov/progress-towards-reducing-greenhouse-gas-emissions) (GWSA) by ensuring that intermediate emissions reduction targets are being achieved through the years 2030 and 2040. 
 
