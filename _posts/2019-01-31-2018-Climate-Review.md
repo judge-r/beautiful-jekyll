@@ -19,7 +19,8 @@ Thanks for reading,
 
 Richard
 
-References:
+**References:**
+
 Aden, N. “The Roads to Decoupling: 21 Countries Are Reducing Carbon Emissions While 
 Growing GDP.” World Resources Institute, 5 Apr. 2016, <www.wri.org/blog/2016/04/roads-decoupling-21-countries-are-reducing-carbon-
 emissions-while-growing-gdp>.
