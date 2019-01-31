@@ -4,7 +4,7 @@ layout: post
 title: 2018 Climate Review
 subtitle: A brief reflection on the most notable scientific literature from 2018
 ---
-[!({{ site.url }}/img/climate_spotlight.png)]({{ site.url }}/img/climate_spotlight.png)
+[![Climate Spotlight]({{ site.url }}/img/climate_spotlight.png)]({{ site.url }}/img/climate_spotlight.png)
 Graphic made using Adobe Illustrator
 
 The year 2018 will stand among many others as a time of extreme and volatile weather patterns that, when viewed in a larger context, reveal significant changes in climate. 2018 was the 4th warmest year on record with an average global temperature of about 1°C above the global average during the pre-industrial period (1850-1900) (World Meteorological Organization 2018). This figure stands out in particular because of its significance within the larger context of climate change mitigation efforts through the 2015 Paris Climate Accords. The industrialized global community is now about halfway to the global warming limit of 2°C and two-thirds of the way to the more aggressive pathway of 1.5°C of warming above pre-industrial levels defined by the Accords (UNFCCC 2015). Leading scientists and policymakers have agreed that limiting warming to no more than 2°C will likely limit the most catastrophic climate change consequences including: excessive food and water shortages, high-frequency supercharged storms, and excessive droughts.
