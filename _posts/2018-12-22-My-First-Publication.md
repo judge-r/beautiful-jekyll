@@ -15,3 +15,23 @@ Please also see the comprehensive timeline graphic that I made below using Adobe
 [![Intertidal Data Logging Timeline]({{ site.url }}/img/Int_LogH2.png)]({{ site.url }}/img/Int_LogH2.png)
 
 -Richard
+
+References:
+
+Fitzhenry, T., Halpin, P. M., and Helmuth, B. (2004). Testing the effects of wave exposure, site, and behavior on intertidal mussel body temperatures: applications and limits of temperature logger design. Mar. Biol. 145, 339–349. doi: 10.1007/s00227-004-1318-6
+
+Hayford, H. A., Gilman, S. E., and Carrington, E. (2015). Foraging behavior minimizes heat exposure in a complex thermal landscape. Mar. Ecol. Prog. Ser. 518, 165–175. doi: 10.3354/meps11053
+
+Helmuth, B. S., and Hofmann, G. E. (2001). Microhabitats, thermal heterogeneity, and patterns of physiological stress in the rocky intertidal zone. Biol. Bull. 201, 374–384. doi: 10.1126/science.1076814
+
+Lewis, J. B. (1963). Environmental and tissue temperatures of some tropical intertidal marine animals. Biol. Bull. 124, 277–284.
+
+Lima, F. P., and Wethey, D. S. (2009). Robolimpets: measuring intertidal body temperatures using biomimetic loggers. Limnol. Oceanogr. Methods 7, 347–353. doi: 10.4319/lom.2009.7.347
+
+Miller, L. P., and Dowd, W. W. (2017). Multimodal in situ datalogging quantifies inter-individual variation in thermal experience and persistent origin effects on gaping behavior among intertidal mussels (Mytilus californianus). J. Exp. Biol. 220, 4305–4319. doi: 10.1242/jeb.164020
+
+Nicastro, K. R., Zardi, G. I., McQuaid, C. D., Pearson, G. A., and Serrão, E. A. (2012). Love thy neighbour: group properties of gaping behaviour in mussel aggregations. PLoS ONE 7:e47382. doi: 10.1371/journal.pone.0047382
+
+Southward, A. J. (1958). Note on the temperature tolerances of some intertidal animals in relation to environmental temperatures and geographical distribution. J. Mar. Biol. Assoc. U.K. 37, 49–66. doi: 10.1017/S0025315400014818
+
+Szathmary, P. L., Helmuth, B., and Wethey, D. S. (2009). Climate change in the rocky intertidal zone: predicting and measuring the body temperature of a keystone predator. Mar. Ecol. Prog. Ser. 374, 43–56. doi: 10.3354/meps07682
