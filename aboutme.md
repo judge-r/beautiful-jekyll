@@ -11,7 +11,7 @@ In August 2018, I finished up a research project in [Dr. Brian Helmuth’s lab](
 
 ## This Website & Learning how to Code ##
 
-Over the past year or so, I have been teaching myself how to code in several different languages including: C/C++, R, Markdown, HTML, CSS, and JavaScript. I knew absolutely no programming at all before I started my research project and realized I wanted to learn after realizing how valuable it is in many fields. In my opinion, basic programming should be a core class requirement for all STEM majors in higher education. I learned enough programming to get this website up and running, and I am excited to continue learning.
+Over the past two years, I have been teaching myself how to code in several different languages including: C/C++, R, Markdown, HTML, CSS, and JavaScript. I knew absolutely no programming at all before I started my research project as a senior at Northeastern. I wanted to learn after realizing how valuable it can be for research consulting. In my opinion, basic programming should be a core class requirement for all STEM majors in higher education. I learned enough programming to get this website up and running, and I am excited to continue developing my skills.
 
 ## Running ##
 
