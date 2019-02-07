@@ -10,4 +10,8 @@ This paper is open-access and hopefully will serve as a helpful resource for mar
 
 If you have any questions, please feel free to contact me for more information, or the corresponding author, Dr. Brian Helmuth at his email address listed on the cover.
 
+Please also see the comprehensive timeline graphic that I made below using Adobe Illustrator. Although we decided not to use this visual in the paper, it is a good summary of the key publications in this field and shows how both the technology and methods have evolved over the years. I have cited all the papers included in the graphic below for your reference.
+
+[![Intertidal Data Logging Timeline]({{ site.url }}/img/Int_LogH.png)]({{ site.url }}/img/Int_LogH.png)
+
 -Richard
