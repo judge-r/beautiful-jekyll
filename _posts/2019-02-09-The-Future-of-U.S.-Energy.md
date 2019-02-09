@@ -23,7 +23,7 @@ Energy efficiency standards, in general, have become more stringent and widespre
 
 These are just some of the many trends that are occurring in the American energy sector. As laws change and technology improves, the rate at which these changes occur can either increase or decrease. The complexity of the energy sector is immense. Careful planning and research can help governments, companies, and households manage changing energy trends.
 
-Endnotes:
+References:
 
 Davidson, S. (2008). Sustainable Bioenergy: Genomics and Biofuels Development | Learn 
 Science at Scitable. [online] Nature.com. Available at: 
