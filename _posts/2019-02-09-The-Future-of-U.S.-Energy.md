@@ -29,13 +29,13 @@ Davidson, S. (2008). Sustainable Bioenergy: Genomics and Biofuels Development | 
 Science at Scitable. [online] Nature.com. Available at: 
 https://www.nature.com/scitable/topicpage/sustainable-bioenergy-genomics-and-biofuels-development-44571 [Accessed 9 Feb. 2019].
 
-Energy.ca.gov. (2018). [online] Available at: 
-https://www.energy.ca.gov/renewables/tracking_progress/documents/energy_efficienc
-y.pdf [Accessed 9 Feb. 2019].
-
 Electricchoice.com. (n.d.). Future of Energy Savings: Upcoming Improvements in Tech. [online] 
 Available at: https://www.electricchoice.com/blog/future-of-energy-savings/ [Accessed 
 9 Feb. 2019].
+
+Energy.ca.gov. (2018). [online] Available at: 
+https://www.energy.ca.gov/renewables/tracking_progress/documents/energy_efficienc
+y.pdf [Accessed 9 Feb. 2019].
 
 Knight, P. (2019). AEO 2019 cliff notes: Lower coal, higher natural gas, and unchanged 
 renewables. [Blog] Synapse Energy Economics, Inc. Blog. Available at: 
