@@ -6,7 +6,7 @@ title: About Me
 
 ## My New Job! ##
 
-I just moved to the Philadelphia, PA area to begin a new job with Normandeau Associates, an environmental consulting firm that specializes mostly in ecological work related to fish, bats, freshwater mussels, soil, groundwater, and impacts from new energy development. We work with clients under federal, state, and local environmental regulations to help them gain compliance.
+I just moved to the Philadelphia, PA area to begin a new job with Normandeau Associates, an environmental consulting firm that specializes mostly in ecological work related to fish, bats, freshwater mussels, soil, groundwater, and impacts from new energy development. We work with clients under federal, state, and local environmental regulations to help them gain compliance with those laws. As I continue with my work, I am excited to learn more about the environmental issues of the region.
 
 ## Mussel Research ##
 
