@@ -3,6 +3,11 @@ layout: page
 title: About Me
 ---
 # What I have been up to lately: #
+
+## My New Job! ##
+
+I just moved to the Philadelphia, PA area to begin a new job with Normandeau Associates, an environmental consulting firm that specializes mostly in ecological work related to fish, bats, freshwater mussels, soil, groundwater, and impacts from new energy development. We work with clients under federal, state, and local environmental regulations to help them gain compliance.
+
 ## Mussel Research ##
 
 [![Blue Mussels in Nahant, MA]({{ site.url }}/img/Mussels.jpg)]({{ site.url }}/img/Mussels.jpg)
@@ -17,4 +22,4 @@ Over the past two years, I have been teaching myself how to code in several diff
 
 [![Running Beach to Beacon in Cape Elizabeth, ME]({{ site.url }}/img/Running.jpg)]({{ site.url }}/img/Running.jpg)
 
-I like to run and train for road races when I can. You can follow my training on [Strava](https://www.strava.com/athletes/11975000). I also enjoy watching professional running including the [World Marathon Majors](https://www.worldmarathonmajors.com/), [IAAF Diamond League](https://www.diamondleague.com/home/), World Championships, and Olympics of course.
+I like to run and train for road races when I can. I am currently training for the 2019 Beach to Beacon 10k in August. You can follow my training on [Strava](https://www.strava.com/athletes/11975000). I also enjoy watching professional running including the [World Marathon Majors](https://www.worldmarathonmajors.com/), [IAAF Diamond League](https://www.diamondleague.com/home/), World Championships, and Olympics of course.
